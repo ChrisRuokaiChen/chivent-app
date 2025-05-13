@@ -1,0 +1,93 @@
+[
+  {
+    "id": "1",
+    "title": "Coding Social",
+    "description": "Not mine own fears, nor the prophetic soul of the wide world dreaming on things to come, Can yet the lease of my true love control, Suppos'd as forfeit to a confin'd doom. The mortal moon hath her eclipse endur'd\\nAnd the sad augurs mock their own presage; Incertainties now crown themselves assur'd, And peace proclaims olives of endless age. ",
+    "imageUrl": "/images/jazz.jpg",
+    "location": "Simon, St. Louis",
+    "startDateTime": "2025-06-12T19:00:00Z",
+    "endDateTime":   "2025-06-12T22:00:00Z",
+    "price": 45
+  },
+  {
+    "id": "2",
+    "title": "Live Music Fest",
+    "description": "Enjoy a variety of jazz, acoustic, rock, covers and more while you grab food and drinks from the 17+ kitchens in the Food Hall!",
+    "imageUrl": "/images/park.jpg",
+    "location": "Lopata, Chicago",
+    "startDateTime": "2025-07-01T10:00:00Z",
+    "endDateTime":   "2025-07-01T17:00:00Z",
+    "price": 20
+  },
+  {
+    "id": "3",
+    "title": "Outdoor Film Night",
+    "description": "This is used of testing Outdoor Film Night's description part. It works perfect!",
+    "imageUrl": "/images/car.jpg",
+    "location": "Parks, Beijing",
+    "startDateTime": "2025-07-23T17:00:00Z",
+    "endDateTime":   "2025-07-23T19:00:00Z",
+    "price": 30
+  },
+  {
+    "id": "4",
+    "title": "Future Science Expo",
+    "description": "This is used of testing Future Science Expo's description part. It works perfect!",
+    "imageUrl": "/images/hot.jpg",
+    "location": "Crow, Houston",
+    "startDateTime": "2025-06-18T10:00:00Z",
+    "endDateTime":   "2025-06-18T17:00:00Z",
+    "price": 30
+  },
+  {
+    "id": "5",
+    "title": "Paint Night",
+    "description": "This is used of testing Outdoor Paint Night's description part. It works perfect!",
+    "imageUrl": "/images/mountain.jpg",
+    "location": "Hitzeman, Los Angeles",
+    "startDateTime": "2025-09-20T10:00:00Z",
+    "endDateTime":   "2025-09-20T17:00:00Z",
+    "price": 70
+  },
+  {
+    "id": "6",
+    "title": "History Walk",
+    "description": "Test of Description",
+    "imageUrl": "/images/people.jpg",
+    "location": "Hurd, Kansas City",
+    "startDateTime": "2025-07-01T10:00:00Z",
+    "endDateTime":   "2025-07-01T17:00:00Z",
+    "price": 24
+  },
+  {
+    "id": "7",
+    "title": "Global Street Food Fair",
+    "description": "Test of Description",
+    "imageUrl": "/images/rose.jpg",
+    "location": "Bears, London",
+    "startDateTime": "2025-07-01T10:00:00Z",
+    "endDateTime":   "2025-07-01T17:00:00Z",
+    "price": 59
+  },
+  {
+    "id": "8",
+    "title": "Garden Gallery",
+    "description": "Test of Description",
+    "imageUrl": "/images/utah.jpg",
+    "location": "Hillman, Shanghai",
+    "startDateTime": "2025-07-01T10:00:00Z",
+    "endDateTime":   "2025-07-01T17:00:00Z",
+    "price": 28
+  },
+  {
+    "id": "9",
+    "title": "Moonlight",
+    "description": "Test of Description",
+    "imageUrl": "/images/water.jpg",
+    "location": "Brown, Chicago",
+    "startDateTime": "2026-09-21T10:00:00Z",
+    "endDateTime":   "2026-09-21T17:00:00Z",
+    "price": 43
+  }
+]
+
